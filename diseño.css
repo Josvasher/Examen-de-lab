@@ -1,0 +1,54 @@
+body{
+    background-color: white;
+    margin-left: 400px;
+}
+
+.Parte1{
+    width: 2000px;
+    height: 1200px;
+    text-align: center;
+    background-color: rgb(197, 246, 243);
+    margin-top: 20px;
+    margin-bottom: 200px;
+    
+}
+
+
+.Linea1{
+    padding-top: 100px;
+}
+.Linea2{
+    text-align: center;
+    display: inline-flex;
+
+}
+h4{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+img{
+    
+    border-radius: 20%;
+}
+.Boton2{
+    margin-left: 970px;
+    justify-content: center;
+    width: 120px;
+    height: 50px;
+    padding: 1%;
+    background-color: rgb(68, 167, 151);
+    margin-top: 10px;
+    border-radius: 30%;
+}
+
+.Parte2{
+    display:flex;
+}
+.Mitad1{
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+.Mitad2{
+    width: 1000px;
+}
